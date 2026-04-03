@@ -1,7 +1,7 @@
 # ==========================
 # 构建阶段：拉取哪吒面板
 # ==========================
-FROM ghcr.io/nezhahq/nezha AS app
+FROM ghcr.io/rapquartz0561-wq/nz:latest
 
 # ==========================
 # 运行阶段：Nginx + 工具环境
